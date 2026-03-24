@@ -1,4 +1,4 @@
-# Antony Johan TCP Chat
+# TCP Chat
 
 A desktop TCP chat application built in Java with a Swing interface. The app lets one user host a chat server locally and other users join that server by hostname or IP address.
 
